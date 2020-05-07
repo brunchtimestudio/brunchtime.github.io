@@ -1,5 +1,0 @@
-RewriteEngine on
-Redirect 301 /youtube https://www.youtube.com/channel/UCB04rpTdiAPGjz1QM9_aDUg/
-Redirect 301 /instagram https://www.instagram.com/brunchtime.studio/
-Redirect 301 /facebook https://www.facebook.com/brunchtime.studio/
-Redirect 301 /twitter https://twitter.com/BrunchtimeGames/
